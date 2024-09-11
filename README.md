@@ -12,6 +12,9 @@ Before you begin, ensure you have the following installed:
 
 ## 1. Install Dependencies
 ## 2. running backend first
-#  2.1 running "npx prisma migrate dev"
-#  2.2 setup env mysql in prisma
+###  2.1 setup env mysql in prisma
+###  2.2 create schma in mysql "ambisius_db"
+###  2.3 running "npx prisma migrate dev"
+###  2.4 running nest js "yarn start:dev"
 ## 3. then running fe
+### 3.1 running with this command "yarn dev"
