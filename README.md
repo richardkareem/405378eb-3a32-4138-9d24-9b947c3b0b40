@@ -8,7 +8,8 @@ This document outlines the steps to set up the Ambisius project environment. It 
 
 Before you begin, ensure you have the following installed:
 - Node.js 
-- MySQL
+- MySQL & server mysql
+- Nest JS
 
 ## 1. Install Dependencies
 ## 2. running backend first
